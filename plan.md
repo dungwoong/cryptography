@@ -7,14 +7,13 @@ This roadmap builds intuition first, then moves toward real modern ciphers.
 ## 1. Toy Ciphers (Build Intuition)
 Implement these completely.
 
-- **Caesar / Shift Cipher**
-- **Affine Cipher**
-- **Vigenère Cipher**
+- [x] **Caesar / Shift Cipher**
+- [x] **Affine Cipher**
+- [x] **Vigenère Cipher**
 
 What you should learn:
 - Key space size
 - Frequency analysis
-- Why key reuse breaks security
 
 ---
 
